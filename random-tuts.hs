@@ -6,7 +6,7 @@ numbers = [4, 8, 15, 16, 23, 42]
 
 conslist = [1, 8]
 
-charlist = ['f', 'n', 'o', 'r', 'd']
+charlist = ['t', 'e', 's', 'l', 'a']
 
 twoToN = [ 2 ^ n | n <- [1 .. 10] ]
 
