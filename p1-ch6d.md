@@ -1,5 +1,4 @@
 [FriedaOne](https://sites.google.com/view/friedaone/synopsis)
-[Markdown](https://drive.google.com/open?id=1rXeS18lUfSTzPkMnxtmSw2uTN_fkNUIZ)
 
 ## Chapter Six
 
