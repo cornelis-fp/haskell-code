@@ -1,4 +1,4 @@
-[FriedaOne](https://sites.google.com/view/friedaone/synopsis)
+[FriedaOne](https://sites.google.com/view/friedaone/synopses)
 
 ## Chapter Six
 
