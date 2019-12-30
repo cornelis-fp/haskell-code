@@ -10,3 +10,4 @@
 
 *Still at Zaragoza. Friday, 19th—* Tomorrow we push for Madrid; five days by my reckoning.
 
+…
