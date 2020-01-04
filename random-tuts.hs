@@ -12,8 +12,6 @@ twoToN = [ 2 ^ n | n <- [1 .. 10] ]
 
 func :: Maybe Int
 
-func = 6 <$ Just 9
-
 func = 6 <$ Just 7
 
 -- mybinding = if condition1
